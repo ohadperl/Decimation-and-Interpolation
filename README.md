@@ -1,7 +1,8 @@
 # Decimation-and-Interpolation
 Signals and Systems Project at BIU about Decimation and Interpolation
 
-Project Overview
+Project Overview:
+
 This project was completed as part of the Signals and Systems course. The objective was to implement signal processing techniques and demonstrate their functionality. Specifically, I worked on decimation and interpolation for audio signals.
 
 The project involves:
